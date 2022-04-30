@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="50mm"
+   viewBox="0 0 199.99999 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     width="500mm"
+     inkscape:zoom="1.3826038"
+     inkscape:cx="111.74568"
+     inkscape:cy="207.57935"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g127">
+      <path
+         d="M 36.074044,29.692132 H 14.837172 L 7.758217,36.771087 V 8.4552605 A 1.7697393,1.7697393 0 0 1 9.5279539,6.6855207 H 36.074044 a 1.7697393,1.7697393 0 0 1 1.769738,1.7697398 V 27.922394 a 1.7697393,1.7697393 0 0 1 -1.769738,1.769738 m 8.8487,-10.618435 V 43.850049 L 37.843782,36.771087 H 18.376653 A 1.7697393,1.7697393 0 0 1 16.606909,35.00135 V 33.231612 H 41.383263 V 17.303958 H 43.153 a 1.7697393,1.7697393 0 0 1 1.769744,1.769739 M 18.712898,10.225 c -1.53967,0 -2.778485,0.35395 -3.734144,1.044146 -0.920269,0.725594 -1.380397,1.734345 -1.362705,3.132439 l 0.01739,0.05311 h 3.415598 c 0.01739,-0.530922 0.176985,-0.937962 0.495504,-1.22112 0.318587,-0.265458 0.707901,-0.407039 1.168028,-0.407039 0.548614,0 1.008755,0.176971 1.327308,0.495524 0.318587,0.336252 0.460121,0.796383 0.460121,1.327305 0,0.566319 -0.123876,1.044146 -0.407012,1.451186 -0.247819,0.407026 -0.619448,0.760972 -1.079569,1.044131 -0.90257,0.601709 -1.521978,1.132633 -1.858229,1.610463 -0.353971,0.460134 -0.548614,1.203423 -0.548614,2.088289 h 3.539481 c 0,-0.548614 0.07077,-0.991051 0.230094,-1.309604 0.15926,-0.318553 0.460121,-0.637106 0.902564,-0.920265 0.796386,-0.424737 1.45119,-0.937961 1.964414,-1.645857 0.51323,-0.707896 0.77868,-1.433489 0.77868,-2.318358 0,-1.345003 -0.477846,-2.424544 -1.433485,-3.220926 -0.937653,-0.796383 -2.229564,-1.203423 -3.875425,-1.203423 m -2.105988,12.388175 v 3.539475 h 3.539481 v -3.539475 h -3.539481 m 10.618436,3.539475 h 3.539481 v -3.539475 h -3.539481 v 3.539475 m 0,-15.927651 v 10.618433 h 3.539481 V 10.225 Z"
+         id="path9"
+         style="stroke-width:1.76974;fill:#000000;fill-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.7321px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.330541"
+         x="60.644405"
+         y="36.055096"
+         id="text1362"><tspan
+           sodipodi:role="line"
+           id="tspan1360"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.7321px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.330541"
+           x="60.644405"
+           y="36.055096">Hootka</tspan></text>
+    </g>
+  </g>
+</svg>

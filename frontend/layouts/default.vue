@@ -1,8 +1,15 @@
 <template>
   <v-app>
     <v-app-bar app>
-      <v-app-title>Hootka</v-app-title>
       
+      <v-img 
+        class="logo d-flex ml-auto" 
+        lazy-src="logo.svg" 
+        src="logo.svg"
+        max-height="50"
+        max-width="200"
+        contain>
+      </v-img>
       <v-spacer></v-spacer>
 
       <!-- Account login / register -->
@@ -14,7 +21,7 @@
         </template>
         <v-list>
           <v-list-item-group>
-            <v-list-item v-for="(item, index) in AccountItems" :key="index">
+            <v-list-item v-for="(item, index) in AccountItems" :key="index" :to="item.href">
               <v-list-item-icon>
                 <v-icon>{{ item.icon }}</v-icon>
               </v-list-item-icon>
@@ -53,3 +60,9 @@ export default {
   },
 };
 </script>
+
+<style>
+  .logo {
+    filter: brightness(0) invert(1);
+  }
+</style>
