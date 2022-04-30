@@ -1,22 +1,22 @@
 <template>
   <v-app>
     <v-app-bar app>
-      
       <v-img 
         class="logo d-flex ml-auto" 
-        lazy-src="logo.svg" 
-        src="logo.svg"
+        lazy-src="/logo.svg" 
+        src="/logo.svg"
         max-height="50"
         max-width="200"
         contain>
       </v-img>
+
       <v-spacer></v-spacer>
 
       <!-- Account login / register -->
       <v-menu offset-y>
         <template v-slot:activator="{ on, attrs }">
-          <v-btn flat icon color="primary" dark v-bind="attrs" v-on="on">
-            <v-icon>mdi-account-circle</v-icon>
+          <v-btn text icon color="primary" dark v-bind="attrs" v-on="on">
+            <v-icon color="white">mdi-account-circle</v-icon>
           </v-btn>
         </template>
         <v-list>
@@ -36,7 +36,7 @@
 
     <!-- Sizes your content based upon application components -->
     <v-main>
-      <v-container fluid>
+      <v-container fluid fill-height>
         <Nuxt />
       </v-container>
     </v-main>
@@ -58,6 +58,11 @@ export default {
       ],
     };
   },
+  head: {
+    meta: [
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+    ]
+  }
 };
 </script>
 

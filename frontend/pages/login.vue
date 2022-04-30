@@ -4,6 +4,7 @@
             justify="center">
             <v-col cols="0" md="2" lg="4"></v-col>
             <v-col cols="12" md="8" lg="4">
+
                 <v-card elevation="2">
                     <v-card-title primary-title>
                         Login
